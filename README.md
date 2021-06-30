@@ -3,7 +3,7 @@
 # Análise de Sentimentos em Redes Sociais
 
 #### Aluno: [Ilidio Ferreira](https://github.com/ilidioferreira).
-#### Orientador: [Leonardo Mendoza](https://github.com/link_do_github).
+#### Orientador: [Leonardo Mendoza](https://github.com/leofome5).
 
 ---
 
@@ -16,11 +16,11 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-Com um mundo cada vez mais conectado nas redes sociais, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+Com um mundo cada vez mais conectado nas redes sociais, está cada vez mais difícil monitorar como as pessoas se sentem em relação a determinada marca ou produto. Felizmente, podemos recorrer à inteligência artificial para nos ajudar nessa árdua tarefa.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Ulitizando uma base de mais de 60 mil tweets do Kaggle, conseguimos montar uma rede LSTM para prever se o sentimento em determinado tweet é positivo ou negativo. A base contém mais de 60 mil tweets, previamente classificados em positivo e negativo. Os tweets negativos são a maioria da base, com aproximandamente 2/3 do total.
 
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Apesar de não conseguimos uma boa acurácia na previsão de tweets positivos (cerca de 60%), tivemos um bom resultado na previsão dos tweets negativos (superior a 90%). Dado que o impacto potencial de um tweet negativo é bem superior ao impacto de tweet positivo, podemos considerar o resultado como satisfatório.
 
 ---
 
