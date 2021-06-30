@@ -3,7 +3,7 @@
 # Análise de Sentimentos em Redes Sociais
 
 #### Aluno: [Ilidio Ferreira](https://github.com/ilidioferreira).
-#### Orientador: [Leonardo Mendoza](https://github.com/leofome5).
+#### Orientador: [Leonardo Mendoza](https://github.com/leofome8).
 
 ---
 
